@@ -1,2 +1,2 @@
 date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-16:07:47	480797/480797	---M-Z	200	added ('OK')	text/html	etag:%22d8335e50c35f971135fab6bd78be2e42%22	https://casspace.framer.ai/	C:/Users/cassc/OneDrive/Desktop/Casspace_Final/casspace.framer.ai/index.html	(from )
+19:45:57	511297/511297	---M-Z	200	added ('OK')	text/html	etag:%225db47a9b2f7b914cbe6fa5e43dd267d4%22	https://casspace.framer.ai/	C:/Users/cassc/OneDrive/Desktop/Casspace_Official/casspace.framer.ai/index.html	(from )
